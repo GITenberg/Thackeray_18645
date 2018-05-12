@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
 description: Vol.[1] The uses of adversity, 1811-1846. -- Vol.[2] The age of wisdom,
   1847-1863
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18645#Thackeray
 gutenberg_issued: '2006-06-21'
 gutenberg_type: Text
 identifiers:
